@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\25301212\\source\\repos\\iv33924\\Lessons-with-Mohamed\\calculator\\calculator\\calculator.csproj",
+      "projectUniqueName": "C:\\Users\\25301212\\source\\repos\\iv33924\\Lessons-with-Mohamed\\calculator1\\calculator\\calculator.csproj",
       "projectName": "calculator",
-      "projectPath": "C:\\Users\\25301212\\source\\repos\\iv33924\\Lessons-with-Mohamed\\calculator\\calculator\\calculator.csproj",
+      "projectPath": "C:\\Users\\25301212\\source\\repos\\iv33924\\Lessons-with-Mohamed\\calculator1\\calculator\\calculator.csproj",
       "packagesPath": "C:\\Users\\25301212\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\25301212\\source\\repos\\iv33924\\Lessons-with-Mohamed\\calculator\\calculator\\obj\\",
+      "outputPath": "C:\\Users\\25301212\\source\\repos\\iv33924\\Lessons-with-Mohamed\\calculator1\\calculator\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
