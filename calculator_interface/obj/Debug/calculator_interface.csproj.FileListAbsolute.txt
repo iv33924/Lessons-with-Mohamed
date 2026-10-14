@@ -1,0 +1,10 @@
+C:\Users\25301212\Source\Repos\iv33924\Lessons-with-Mohamed\calculator_interface\bin\Debug\calculator_interface.exe.config
+C:\Users\25301212\Source\Repos\iv33924\Lessons-with-Mohamed\calculator_interface\bin\Debug\calculator_interface.exe
+C:\Users\25301212\Source\Repos\iv33924\Lessons-with-Mohamed\calculator_interface\bin\Debug\calculator_interface.pdb
+C:\Users\25301212\Source\Repos\iv33924\Lessons-with-Mohamed\calculator_interface\obj\Debug\calculator_interface.csproj.AssemblyReference.cache
+C:\Users\25301212\Source\Repos\iv33924\Lessons-with-Mohamed\calculator_interface\obj\Debug\calculator_interface.csproj.SuggestedBindingRedirects.cache
+C:\Users\25301212\Source\Repos\iv33924\Lessons-with-Mohamed\calculator_interface\obj\Debug\calculator_interface.Properties.Resources.resources
+C:\Users\25301212\Source\Repos\iv33924\Lessons-with-Mohamed\calculator_interface\obj\Debug\calculator_interface.csproj.GenerateResource.cache
+C:\Users\25301212\Source\Repos\iv33924\Lessons-with-Mohamed\calculator_interface\obj\Debug\calculator_interface.csproj.CoreCompileInputs.cache
+C:\Users\25301212\Source\Repos\iv33924\Lessons-with-Mohamed\calculator_interface\obj\Debug\calculator_interface.exe
+C:\Users\25301212\Source\Repos\iv33924\Lessons-with-Mohamed\calculator_interface\obj\Debug\calculator_interface.pdb
