@@ -1,3 +1,8 @@
+using System;
+using System.Drawing.Printing;
+using System.IO;
+using System.Windows.Forms;
+
 namespace notebook_interface
 {
     public partial class Form1 : Form
