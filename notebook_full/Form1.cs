@@ -1,4 +1,5 @@
 using System;
+using System.Drawing.Printing;
 using System.IO;
 using System.Windows.Forms;
 
@@ -89,7 +90,7 @@ namespace notebook_interface
         private void îÏðîãðàììåToolStripMenuItem_Click(object sender, EventArgs e)
         {
             MessageBox.Show(
-                "Òåêñòîâûé ðåäàêòîð «Notebook»\n\nÂåðñèÿ 1.0\nÐàçðàáîòàíî â êà÷åñòâå ó÷åáíîãî ïðîåêòà.",
+                "Áëîêíîò\n\nÂåðñèÿ 1.0",
                 "Î ïðîãðàììå",
                 MessageBoxButtons.OK,
                 MessageBoxIcon.Information
@@ -127,5 +128,32 @@ namespace notebook_interface
                 }
             }
         }
+
+        private void ïå÷àòüToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            using (PrintDialog printDialog = new PrintDialog())
+            {
+                PrintDocument printDocument = new PrintDocument();
+                printDialog.Document = printDocument;
+
+                printDocument.PrintPage += (s, ev) =>
+                {
+                    ev.Graphics.DrawString(
+                        textBox1.Text,
+                        textBox1.Font,
+                        System.Drawing.Brushes.Black,
+                        ev.MarginBounds.Left,
+                        ev.MarginBounds.Top
+                    );
+                };
+
+                if (printDialog.ShowDialog() == DialogResult.OK)
+                {
+                    printDocument.Print();
+                }
+            }
+        }
     }
+
+
 }

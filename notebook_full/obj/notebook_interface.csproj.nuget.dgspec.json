@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\25301212\\source\\repos\\iv33924\\Lessons-with-Mohamed\\notebook_interface\\notebook_interface.csproj": {}
+    "C:\\Users\\25301212\\source\\repos\\iv33924\\Lessons-with-Mohamed\\notebook_full\\notebook_interface.csproj": {}
   },
   "projects": {
-    "C:\\Users\\25301212\\source\\repos\\iv33924\\Lessons-with-Mohamed\\notebook_interface\\notebook_interface.csproj": {
+    "C:\\Users\\25301212\\source\\repos\\iv33924\\Lessons-with-Mohamed\\notebook_full\\notebook_interface.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\25301212\\source\\repos\\iv33924\\Lessons-with-Mohamed\\notebook_interface\\notebook_interface.csproj",
+        "projectUniqueName": "C:\\Users\\25301212\\source\\repos\\iv33924\\Lessons-with-Mohamed\\notebook_full\\notebook_interface.csproj",
         "projectName": "notebook_interface",
-        "projectPath": "C:\\Users\\25301212\\source\\repos\\iv33924\\Lessons-with-Mohamed\\notebook_interface\\notebook_interface.csproj",
+        "projectPath": "C:\\Users\\25301212\\source\\repos\\iv33924\\Lessons-with-Mohamed\\notebook_full\\notebook_interface.csproj",
         "packagesPath": "C:\\Users\\25301212\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\25301212\\source\\repos\\iv33924\\Lessons-with-Mohamed\\notebook_interface\\obj\\",
+        "outputPath": "C:\\Users\\25301212\\source\\repos\\iv33924\\Lessons-with-Mohamed\\notebook_full\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\25301212\\AppData\\Roaming\\NuGet\\NuGet.Config",
