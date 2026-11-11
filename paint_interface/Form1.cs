@@ -41,5 +41,15 @@ namespace paint_interface
         {
 
         }
+
+        private void button31_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void panel1_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
     }
 }
